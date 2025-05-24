@@ -1,5 +1,5 @@
 # Ex 6B) Kruskal’s Algorithm
-## DATE:05/05/2025
+## DATE:
 ## AIM:
 To write a C program to implement Kruskal's Algorithm for finding minimum cost
 
@@ -19,8 +19,8 @@ To write a C program to implement Kruskal's Algorithm for finding minimum cost
 ```
 /*
 Program to implement Kruskal's Algorithm
-Developed by: Jayamani R
-RegisterNumber:  212222100014
+Developed by: SIVARAM R
+RegisterNumber:  212222100050
 */
 #include<stdio.h>
 #define MAX 30 typedefstruct edge
