@@ -1,5 +1,5 @@
 # Ex 6C) Dijkstra’s Algorithm
-## DATE:10/05/2025
+## DATE:
 ## AIM:
 To write a C Program to implement Dijkstra's Algorithm to find the shortest path
 
@@ -19,8 +19,8 @@ To write a C Program to implement Dijkstra's Algorithm to find the shortest path
 ```
 /*
 Program to implement Dijkstra's Algorithm 
-Developed by: Jayamani R
-RegisterNumber:  212222100014
+Developed by: SIVARAM R
+RegisterNumber:  212222100050
 */
 #include<stdio.h> #defineINFINITY9999 #define MAX 10
 voiddijkstra(int G[MAX][MAX],int n,int startnode); int main()
