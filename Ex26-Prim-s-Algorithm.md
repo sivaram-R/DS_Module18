@@ -1,5 +1,5 @@
 # Ex 6A) Prim’s Algorithm
-## DATE:05/05/2025
+## DATE:
 ## AIM:
 To write a C program to implement Prim's Algorithm for finding Total Cost of tree.
 
