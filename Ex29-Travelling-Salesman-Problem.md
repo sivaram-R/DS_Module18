@@ -1,5 +1,5 @@
 # Ex 6D) Travelling Salesman Problem
-## DATE:12/05/2025
+## DATE:
 ## AIM:
 To write a C Program to implement Travelling Salesman Problem for finding shortest path.
 ## Algorithm
@@ -18,8 +18,8 @@ To write a C Program to implement Travelling Salesman Problem for finding shorte
 ```
 /*
 Program to implement Travelling Salesman Problem for finding shortest path
-Developed by: Jayamani R
-RegisterNumber: 212222100014 
+Developed by: SIVARAM R
+RegisterNumber:  212222100050
 */
 #include<stdio.h>
 int a[10][10],visited[10],n,cost=0;
