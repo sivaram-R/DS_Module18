@@ -1,5 +1,5 @@
 # Ex 6E) Finding Total Cost of Spanning Tree
-## DATE:17/05/2025
+## DATE:
 ## AIM:
 To write a C Program to implement Prim's Algorithm for finding Total Cost of spanning tree.
 ## Algorithm
@@ -17,8 +17,8 @@ To write a C Program to implement Prim's Algorithm for finding Total Cost of spa
 ```
 /*
 Program to find and display the priority of the operator in the given Postfix expression
-Developed by: Jayamani R
-RegisterNumber:  212222100014
+Developed by: SIVARAM R
+RegisterNumber:  212222100050
 */
 #include<stdio.h> #include<stdlib.h>
 #define infinity 9999
