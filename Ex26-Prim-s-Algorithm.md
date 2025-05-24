@@ -17,8 +17,8 @@ To write a C program to implement Prim's Algorithm for finding Total Cost of tre
 ```
 /*
 Program to implement Prim's Algorithm
-Developed by: Jayamani R
-RegisterNumber:  212222100014
+Developed by: SIVARAM R
+RegisterNumber:  212222100050
 */
 #include<stdio.h> #include<stdlib.h>
 #define infinity9999 #define MAX 20
